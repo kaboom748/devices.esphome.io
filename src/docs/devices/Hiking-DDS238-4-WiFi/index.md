@@ -1,3 +1,5 @@
+https://github.com/kaboom748/dxs238xw
+
 ---
 title: Hiking DDS238-4-W WiFi Single Phase 63A Energy Meter / Hiking DDS238-4-W WiFi 3-Phase 63A Energy Meter
 date-published: 2025-08-12
